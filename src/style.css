@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+    background: #440154;
+    background: linear-gradient(90deg, #440154 21px, transparent 0%) center, linear-gradient( #440154 21px, transparent 0%) center, #a799cc;
+    background-size: 22px 22px;
+   /* background: linear-gradient(0deg, rgba(68,1,84,1) 0%, rgba(31,158,137,1) 50%, rgba(253,231,37,1) 100%);
+}
+
+#grad {
+    /*background: rgb(72,40,120);
+    background: linear-gradient(0deg, rgba(72,40,120,1) 0%, rgba(31,158,137,1) 50%, rgba(253,231,37,1) 100%);*/
+  }
